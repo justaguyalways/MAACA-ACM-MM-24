@@ -1,0 +1,16 @@
+numpy
+pandas
+sklearn
+torch
+pytorchvideo
+transformers
+pydub
+torchvision==0.15
+omegaconf
+wandb
+timm
+einops
+fairscale
+opencv-python
+accelerate
+pytube
